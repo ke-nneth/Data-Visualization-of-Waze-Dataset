@@ -1,5 +1,5 @@
 # Data-Visualization-of-Waze-Dataset
-Visualization using Tableau
+Visualization using Tableau <br/> 
 A group project which poses to answer the questions such as:
   1. Traffic Congestion Identification and Hotspot Analysis <br/> 
     a. Which road segments or areas experience the highest levels of traffic congestion according to type of alert?<br/> 
